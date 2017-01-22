@@ -1,4 +1,7 @@
 # uiGradients
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3b2bc7d90cc41eeb107d0a21679c24c)](https://www.codacy.com/app/pclienau_2/uigradients?utm_source=github.com&utm_medium=referral&utm_content=rozzzly/uigradients&utm_campaign=badger)
+
 <div align="center"><img src="http://i.giphy.com/3oz8xTRTgiIERV3Kms.gif" alt="uiGradients in action"/></div>
 
 ## Installation
